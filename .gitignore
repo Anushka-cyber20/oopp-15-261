@@ -1,0 +1,21 @@
+# VS Code / editor state
+.vscode/
+*.vscdb
+*.vscdb-*
+*.vscdb-shm
+*.vscdb-wal
+*.backup*
+
+# Process/state files
+process-*
+state-*
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.tempgit add .
