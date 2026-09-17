@@ -19,3 +19,5 @@ node_modules/
 # Temporary files
 *.tmp
 *.tempgit add .
+*.exe
+*/*.exe
