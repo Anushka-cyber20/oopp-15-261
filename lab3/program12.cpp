@@ -43,7 +43,7 @@ int main()
 
     // Square
     cout << "\nEnter side of square: ";
-    cin >> side;
+    cin>>side;
     cout << "Area of Square = " << area(side) << endl;
 
     // Triangle
